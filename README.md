@@ -61,6 +61,5 @@ And  in the user_profile template page you can see the profile page of the user.
 
 # Output
 
-![Alt text](<Screenshot 2023-10-26 085716.png>)
 
 ![Alt text](<Screenshot 2023-11-09 081812.png>)
